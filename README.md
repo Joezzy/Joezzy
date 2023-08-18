@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joezzy
 - 👀 I’m interested in Mobile application development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Hybrid application
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Mobile application
 - 📫 you can reach me via onalojoseph96@gmail.com 
 - Twitter: Jo_Nalz
 
