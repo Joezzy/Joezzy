@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joezzy
-- 👀 I’m interested in Mobile application development
+- 👀 I’m interested Flutter | Kotlin | Typescript | Expressjs | Firebase | Python 
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Mobile application
 - 📫 you can reach me via onalojoseph96@gmail.com 
